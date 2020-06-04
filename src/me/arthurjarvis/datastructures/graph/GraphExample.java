@@ -17,7 +17,7 @@ public class GraphExample implements Runnable {
         Graph.Vertex ap = new Graph.Vertex("Wireless Access Point");
 
         Graph.Vertex wirelessClient1 = new Graph.Vertex("Wireless Client 1");
-        Graph.Vertex wirelessClient2 = new Graph.Vertex("Wireless Vertex 2");
+        Graph.Vertex wirelessClient2 = new Graph.Vertex("Wireless Client 2");
 
 
         graph.addVertices(router, _switch, wiredClient1, wiredClient2, ap, wirelessClient1, wirelessClient2);
