@@ -23,7 +23,7 @@ Wired Client 1
 Wired Client 2
 Wireless Access Point
 Wireless Client 1
-Wireless Vertex 2
+Wireless Client 2
 --
 
 ----
